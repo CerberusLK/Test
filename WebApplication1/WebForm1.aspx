@@ -8,7 +8,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <asp:Image ID="Image1" runat="server" Height="397px" ImageUrl="~/3-s2.0-B9781597494243000013-gr1.jpg" Width="870px" />
+        <asp:Image ID="Image1" runat="server" Height="336px" ImageUrl="~/3-s2.0-B9781597494243000013-gr1.jpg" Width="1059px" />
         <div>
         </div>
     </form>
